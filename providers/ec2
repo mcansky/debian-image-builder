@@ -77,7 +77,8 @@ volume_id=
 volume_size='1'
 volume_inodes=
 volume_type='ebs'
-apt_mirrors='http://http.debian.net/debian'
+#apt_mirrors='http://http.debian.net/debian'
+apt_mirrors='http://auto.mirror.devuan.org/merge'
 
 # EC2 known regions
 known_regions=('us-east-1')
